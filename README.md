@@ -1,6 +1,10 @@
 <p align="center">
   <img alt="Debojyoti Sinha Thakur" src="https://www.gitskins.com/api/section/wordmark?username=debojyotist&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F320319170%3Fu%3D4e271ee993f6cf9ef7f1c634b6c97968e4ca7344%26v%3D4&amp;label=Debojyoti%20Sinha%20Thakur" width="100%">
 </p>
+
+<picture>
+    <img width="100%" alt="Debojyoti Sinha Thakur — profile" src="https://www.gitskins.com/api/section/hero?username=debojyotist&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F320319170%3Fu%3D4e271ee993f6cf9ef7f1c634b6c97968e4ca7344%26v%3D4&amp;mode=dark">
+  </picture>
 ## About
 
 Building useful things and learning in public.
