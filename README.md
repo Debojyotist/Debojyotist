@@ -26,6 +26,10 @@ No public language data yet — building the first project in the open.
   <img alt="Highlights" src="https://www.gitskins.com/api/section/highlights?username=debojyotist&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F320319170%3Fu%3D4e271ee993f6cf9ef7f1c634b6c97968e4ca7344%26v%3D4&amp;items=Code%3A%3A1%20public%20repositories%7CDebojyotist%3A%3AFeatured%20project%7CImpact%3A%3A0%20stars%20%C2%B7%202%20active%20days" width="100%">
 </p>
 
+<p align="center">
+  <img width="100%" alt="0 stars across 1 repositories" src="https://www.gitskins.com/api/section/stats?username=debojyotist&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F320319170%3Fu%3D4e271ee993f6cf9ef7f1c634b6c97968e4ca7344%26v%3D4">
+</p>
+
 ## Let’s connect
 
 <p align="center">
