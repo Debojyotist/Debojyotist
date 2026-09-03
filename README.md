@@ -9,8 +9,6 @@
 
 
 
-## About
 
-Building useful things and learning in public.
 
 
